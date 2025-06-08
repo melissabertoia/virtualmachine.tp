@@ -18,4 +18,4 @@ Se incluyen los siguientes directorios comprimidos desde la VM Debian utilizada:
 - `/proc` → `proc.tar.gz` (solo el archivo “particion” generado)
 - `/www_dir` → `www_dir.tar.gz`
 - `/backup_dir` → `backup_dir.tar.gz`
-- `/var` → dividido en partes (`var.part01`, `var.part02`, etc.)
+- `/var` → dividido en partes
