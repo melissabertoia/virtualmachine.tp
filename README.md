@@ -6,7 +6,6 @@ Este repositorio contiene los archivos y configuraciones correspondientes al Tra
 
 - Bertoia, Melissa
 - Juarez, Matias
-- Kapnik, Juan Fernández
 
 ## Estructura del repositorio
 
